@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Ajedrez</string>
+    <string name="mensajeprincipal">ESCRIBE TU NOMBRE : </string>
+    <string name="boton">ACCEDER</string>
+    <string name="nombre">Nombre</string>
+    <string name="hola">Hola : </string>
+    <string name="jugar">JUGAR</string>
+    <string name="turnoblancas">TURNO : BLANCAS</string>
+    <string name="turnonegras">TURNO : NEGRAS</string>
+
 </resources>
