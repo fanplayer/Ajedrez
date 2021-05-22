@@ -1,6 +1,6 @@
 # Ajedrez
 
-<img src="ajedrez.jpeg">
+<img src="./drawable/ajedrez.jpeg">
 
 <h1>Ajedrez</h1>
 
