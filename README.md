@@ -1,7 +1,3 @@
-# Ajedrez
-
-<img src="https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.milenio.com%2Festilo%2Fque-es-un-gambito-en-ajedrez-por-serie-de-netflix&psig=AOvVaw2Bs0_l1gTO-j_CjCTRARIS&ust=1621791712957000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiItqDr3fACFQAAAAAdAAAAABAP">
-
 <h1>Ajedrez</h1>
 
 <p>Autor : Fanplayer</p>
